@@ -1,4 +1,6 @@
-// Abstract class Vehicle
+
+import java.util.*;
+
 abstract class Vehicle {
     private String make;
     private String model;
